@@ -16,7 +16,7 @@
 - 👯 I’m looking to collaborate on react or node projects
 - 🤔 I'm looking for help with the C language
 - 💬 Ask me about anything, I am happy to help
-- 😄 Pronouns: He/His
+- 😄 Pronouns: He/Him
 - ⚡ Fun fact: I'm a lover of Star Wars, Marvel and NBA
 
 
